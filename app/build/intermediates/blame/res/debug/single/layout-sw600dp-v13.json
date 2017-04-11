@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/resources_smallest_width_row.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout-sw600dp/resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/resources_smallest_width_inner.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout-sw600dp/resources_smallest_width_inner.xml"
+    }
+]

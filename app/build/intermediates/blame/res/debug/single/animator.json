@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/animator/fragment_slide_right_enter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/animator/fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/animator/fragment_slide_left_enter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/animator/fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/animator/fragment_slide_right_exit.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/animator/fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/animator/fragment_slide_left_exit.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/animator/fragment_slide_left_exit.xml"
+    }
+]

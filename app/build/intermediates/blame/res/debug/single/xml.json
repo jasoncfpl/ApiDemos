@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/preference_headers.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/preference_headers.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_lock_wipe.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_lock_wipe.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/taskbackconfig.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/taskbackconfig.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_encryption.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_encryption.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_quality.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_quality.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_general.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_general.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/advanced_preferences.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/advanced_preferences.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/fragmented_preferences_inner.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/fragmented_preferences_inner.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/filter_nfc.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/filter_nfc.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/preference_dependencies.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/preference_dependencies.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_headers.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_headers.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_sample.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_sample.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/appwidget_provider.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/appwidget_provider.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/device_admin_expiration.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/device_admin_expiration.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/default_values.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/default_values.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/preference_switch.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/preference_switch.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/xml/fragmented_preferences.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/xml/fragmented_preferences.xml"
+    }
+]

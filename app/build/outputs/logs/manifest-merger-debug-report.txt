@@ -1,0 +1,2757 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:22:1-3015:12
+	package
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:23:5-39
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:22:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:25:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:26:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:27:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:30:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:32:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:33:5-70
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:33:22-67
+uses-permission#android.permission.NFC
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:34:5-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:34:22-59
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:35:5-70
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:35:22-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:38:22-68
+uses-sdk
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:40:5-73
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:40:41-70
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:40:15-40
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:44:5-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:44:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:45:5-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:45:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:46:5-95
+	android:required
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:46:68-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:46:19-67
+application
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:48:5-3009:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:49:13-57
+	android:supportsRtl
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:52:13-39
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:51:13-47
+	android:icon
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:50:13-53
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:48:18-52
+uses-library#com.example.will.never.exist
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:56:9-94
+	android:required
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:56:67-91
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:56:23-66
+activity#com.example.android.apis.ApiDemos
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:58:9-64:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:58:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:60:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:61:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:62:27-74
+activity#com.example.android.apis.app.HelloWorld
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:72:9-77:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:72:50-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:72:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:73:13-76:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:75:17-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:75:27-77
+activity#com.example.android.apis.app.DialogActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:79:9-86:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:80:17-56
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:81:17-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:79:19-53
+activity#com.example.android.apis.app.CustomDialogActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:88:9-95:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:89:17-63
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:90:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:88:19-59
+activity#com.example.android.apis.app.OverscanActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:97:9-105:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:100:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:98:17-58
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:99:17-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:97:19-55
+activity#com.example.android.apis.app.QuickContactsDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:107:8-113:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:108:17-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:107:18-55
+activity#com.example.android.apis.app.WallpaperActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:115:9-122:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:116:17-59
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:117:17-55
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:115:19-56
+activity#com.example.android.apis.app.TranslucentActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:124:9-131:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:125:17-61
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:126:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:124:19-58
+activity#com.example.android.apis.app.TranslucentBlurActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:133:9-140:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:134:17-66
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:135:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:133:19-62
+activity#com.example.android.apis.app.Animation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:142:9-147:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:142:49-91
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:142:19-48
+activity#com.example.android.apis.app.SaveRestoreState
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:149:9-156:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:150:17-62
+	android:windowSoftInputMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:151:17-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:149:19-55
+activity#com.example.android.apis.app.PersistentState
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:158:9-165:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:159:17-60
+	android:windowSoftInputMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:160:17-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:158:19-54
+activity#com.example.android.apis.app.ActivityRecreate
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:167:9-174:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:169:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:168:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:167:19-55
+activity#com.example.android.apis.app.FinishAffinity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:176:9-184:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:179:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:177:17-65
+	android:taskAffinity
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:178:17-50
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:176:19-53
+activity#com.example.android.apis.app.SoftInputModes
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:186:9-192:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:187:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:186:19-53
+activity#com.example.android.apis.app.ReceiveResult
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:194:9-199:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:194:53-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:194:19-52
+activity#com.example.android.apis.app.SendResult
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:201:9-203:20
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:202:17-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:201:19-49
+activity#com.example.android.apis.app.Forwarding
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:205:9-210:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:205:50-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:205:19-49
+activity#com.example.android.apis.app.ForwardTarget
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:212:9-213:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:212:19-52
+activity#com.example.android.apis.app.RedirectEnter
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:215:9-220:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:215:53-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:215:19-52
+activity#com.example.android.apis.app.RedirectMain
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:222:9-223:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:222:19-51
+activity#com.example.android.apis.app.RedirectGetter
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:225:9-226:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:225:19-53
+activity#com.example.android.apis.app.CustomTitle
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:230:9-238:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:231:17-62
+	android:windowSoftInputMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:232:17-69
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:233:17-53
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:230:19-50
+activity#com.example.android.apis.app.ReorderOnLaunch
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:240:9-246:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:241:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:240:19-54
+activity#com.example.android.apis.app.RotationAnimation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:248:9-254:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:249:17-68
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:248:19-56
+activity#com.example.android.apis.app.ReorderTwo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:256:9-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:256:19-49
+activity#com.example.android.apis.app.ReorderThree
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:257:9-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:257:19-51
+activity#com.example.android.apis.app.ReorderFour
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:258:9-53
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:258:19-50
+activity#com.example.android.apis.app.SetWallpaperActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:260:9-266:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:261:19-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:260:19-59
+activity#com.example.android.apis.app.ScreenOrientation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:268:9-274:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:269:19-70
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:268:19-56
+activity#com.example.android.apis.app.PresentationActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:276:9-282:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:277:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:276:19-59
+activity#com.example.android.apis.app.PresentationWithMediaRouterActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:284:9-290:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:285:17-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:284:19-74
+activity#com.example.android.apis.app.SecureWindowActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:292:9-298:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:293:17-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:292:19-59
+activity#com.example.android.apis.app.SecureDialogActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:300:9-306:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:301:17-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:300:19-59
+activity#com.example.android.apis.app.SecureSurfaceViewActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:308:9-314:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:309:17-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:308:19-64
+activity#com.example.android.apis.app.FragmentAlertDialog
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:318:9-325:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:320:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:319:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:318:19-58
+activity#com.example.android.apis.app.FragmentArguments
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:327:9-334:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:329:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:328:17-59
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:327:19-56
+activity#com.example.android.apis.app.FragmentCustomAnimations
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:336:9-343:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:338:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:337:17-67
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:336:19-63
+activity#com.example.android.apis.app.FragmentHideShow
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:345:9-353:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:348:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:346:17-59
+	android:windowSoftInputMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:347:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:345:19-55
+activity#com.example.android.apis.app.FragmentContextMenu
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:355:9-362:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:357:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:356:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:355:19-58
+activity#com.example.android.apis.app.FragmentDialog
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:364:9-371:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:366:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:365:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:364:19-53
+activity#com.example.android.apis.app.FragmentDialogOrActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:373:9-380:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:375:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:374:17-68
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:373:19-63
+activity#com.example.android.apis.app.FragmentLayout
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:382:9-389:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:384:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:383:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:382:19-53
+activity#com.example.android.apis.app.FragmentLayout$DetailsActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:391:9-392:60
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:392:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:391:19-69
+activity#com.example.android.apis.app.FragmentListArray
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:394:9-401:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:396:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:395:17-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:394:19-56
+activity#com.example.android.apis.app.FragmentMenu
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:403:9-410:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:405:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:404:17-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:403:19-51
+activity#com.example.android.apis.app.FragmentNestingTabs
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:412:9-419:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:414:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:413:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:412:19-58
+activity#com.example.android.apis.app.FragmentRetainInstance
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:421:9-428:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:423:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:422:17-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:421:19-61
+activity#com.example.android.apis.app.FragmentReceiveResult
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:430:9-437:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:432:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:431:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:430:19-60
+activity#com.example.android.apis.app.FragmentStack
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:439:9-446:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:441:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:440:17-55
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:439:19-52
+activity#com.example.android.apis.app.FragmentTabs
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:448:9-455:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:450:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:449:17-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:448:19-51
+activity#com.example.android.apis.app.LoaderCursor
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:459:9-466:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:461:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:460:17-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:459:19-51
+activity#com.example.android.apis.app.LoaderCustom
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:468:9-475:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:470:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:469:17-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:468:19-51
+activity#com.example.android.apis.app.LoaderThrottle
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:478:9-485:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:480:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:479:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:478:19-53
+provider#com.example.android.apis.app.LoaderThrottle$SimpleProvider
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:486:9-488:62
+	android:authorities
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:487:19-84
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:488:19-59
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:486:19-68
+activity#com.example.android.apis.app.LoaderRetained
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:491:9-498:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:493:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:492:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:491:19-53
+activity#com.example.android.apis.app.Intents
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:502:9-507:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:502:47-87
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:502:19-46
+activity#com.example.android.apis.app.IntentActivityFlags
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:509:9-515:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:510:17-71
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:509:19-58
+service#com.example.android.apis.app.LocalService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:519:9-81
+	android:stopWithTask
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:519:51-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:519:18-50
+activity#com.example.android.apis.app.LocalServiceActivities$Controller
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:521:9-528:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:522:17-74
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:523:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:521:19-72
+activity#com.example.android.apis.app.LocalServiceActivities$Binding
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:530:9-536:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:531:17-71
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:530:19-69
+service#com.example.android.apis.app.MessengerService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:539:9-540:45
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:540:17-42
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:539:18-54
+activity#com.example.android.apis.app.MessengerServiceActivities$Binding
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:543:9-549:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:544:17-75
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:543:19-73
+service#com.example.android.apis.app.RemoteService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:551:9-561:19
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:551:52-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:551:18-51
+intent-filter#com.example.android.apis.app.IRemoteService+com.example.android.apis.app.ISecondary+com.example.android.apis.app.REMOTE_SERVICE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:552:13-560:29
+action#com.example.android.apis.app.IRemoteService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:555:17-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:555:25-83
+action#com.example.android.apis.app.ISecondary
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:556:17-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:556:25-79
+action#com.example.android.apis.app.REMOTE_SERVICE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:559:17-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:559:25-83
+activity#com.example.android.apis.app.RemoteService$Controller
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:563:9-570:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:564:17-75
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:565:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:563:19-63
+activity#com.example.android.apis.app.RemoteService$Binding
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:572:9-578:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:573:17-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:572:19-60
+activity#com.example.android.apis.app.RemoteService$BindingOptions
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:580:9-586:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:581:17-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:580:19-67
+service#com.example.android.apis.app.ServiceStartArguments
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:588:9-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:588:18-59
+activity#com.example.android.apis.app.ServiceStartArguments$Controller
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:590:9-597:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:591:17-84
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:592:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:590:19-71
+service#com.example.android.apis.app.ForegroundService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:599:9-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:599:18-55
+activity#com.example.android.apis.app.ForegroundService$Controller
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:601:9-608:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:602:17-79
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:603:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:601:19-67
+activity#com.example.android.apis.app.IsolatedService$Controller
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:610:9-618:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:613:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:611:17-77
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:612:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:610:19-65
+service#com.example.android.apis.app.IsolatedService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:620:9-621:60
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:621:17-57
+	android:isolatedProcess
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:620:54-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:620:18-53
+service#com.example.android.apis.app.IsolatedService2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:622:9-623:60
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:623:17-57
+	android:isolatedProcess
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:622:55-85
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:622:18-54
+receiver#com.example.android.apis.app.OneShotAlarm
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:627:9-80
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:627:52-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:627:19-51
+receiver#com.example.android.apis.app.RepeatingAlarm
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:629:9-82
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:629:54-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:629:19-53
+activity#com.example.android.apis.app.AlarmController
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:631:9-636:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:631:55-104
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:631:19-54
+service#com.example.android.apis.app.AlarmService_Service
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:638:9-87
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:638:59-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:638:18-58
+activity#com.example.android.apis.app.AlarmService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:640:9-645:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:640:52-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:640:19-51
+receiver#com.example.android.apis.app.DoNothing
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:649:9-650:68
+	android:process
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:650:17-41
+	android:exported
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:650:42-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:649:19-48
+activity#com.example.android.apis.accessibility.ClockBackActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:656:9-662:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:657:13-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:656:19-66
+service#com.example.android.apis.accessibility.ClockBackService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:664:9-670:19
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:665:13-64
+	android:permission
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:666:13-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:664:18-64
+intent-filter#android.accessibilityservice.AccessibilityService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:667:13-669:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:668:17-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:668:25-89
+activity#com.example.android.apis.accessibility.TaskListActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:672:9-679:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:674:19-66
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:673:19-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:672:19-65
+service#com.example.android.apis.accessibility.TaskBackService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:681:9-691:19
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:683:18-65
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:682:18-74
+	android:permission
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:684:18-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:681:18-63
+meta-data#android.accessibilityservice
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:688:13-690:58
+	android:resource
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:690:17-55
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:689:17-60
+activity#com.example.android.apis.accessibility.CustomViewAccessibilityActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:693:9-700:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:695:19-66
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:694:19-68
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:693:19-80
+activity#com.example.android.apis.app.LocalSample
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:704:9-709:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:704:51-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:704:19-50
+intent-filter#android.intent.action.MAIN
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:705:13-708:29
+activity#com.example.android.apis.app.ContactsFilter
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:711:9-716:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:711:54-102
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:711:19-53
+activity#com.example.android.apis.app.NotifyWithText
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:721:9-726:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:721:54-101
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:721:19-53
+activity#com.example.android.apis.app.IncomingMessage
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:728:9-734:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:729:17-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:728:19-54
+activity#com.example.android.apis.app.IncomingMessageView
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:736:9-738:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:737:17-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:736:19-58
+activity#com.example.android.apis.app.IncomingMessageInterstitial
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:741:9-747:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:742:17-50
+	android:excludeFromRecents
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:746:17-50
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:744:17-48
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:743:17-55
+	android:taskAffinity
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:745:17-40
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:741:19-66
+activity#com.example.android.apis.app.NotificationDisplay
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:754:9-759:20
+	android:excludeFromRecents
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:757:17-50
+	android:noHistory
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:758:17-41
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:755:17-57
+	android:taskAffinity
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:756:17-40
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:754:19-58
+activity#com.example.android.apis.app.StatusBarNotifications
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:761:9-768:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:762:17-60
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:763:17-47
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:761:19-61
+service#com.example.android.apis.app.NotifyingService
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:770:9-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:770:18-54
+activity#com.example.android.apis.app.NotifyingController
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:772:9-777:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:772:59-120
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:772:19-58
+activity#com.example.android.apis.app.AlertDialogSamples
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:780:9-785:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:780:58-103
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:780:19-57
+activity#com.example.android.apis.app.SearchInvoke
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:794:9-813:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:795:19-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:794:19-51
+meta-data#android.app.default_searchable
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:803:13-804:66
+	android:value
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:804:24-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:803:24-69
+activity#com.example.android.apis.app.SearchQueryResults
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:818:9-837:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:819:19-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:818:19-57
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:827:13-830:29
+action#android.intent.action.SEARCH
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:828:17-71
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:828:25-68
+meta-data#android.app.searchable
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:835:13-836:61
+	android:resource
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:836:24-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:835:24-61
+provider#com.example.android.apis.app.SearchSuggestionSampleProvider
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:842:9-843:87
+	android:authorities
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:843:19-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:842:19-69
+activity#com.example.android.apis.app.LauncherShortcuts
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:868:9-875:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:869:19-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:868:19-56
+activity-alias#com.example.android.apis.app.CreateShortcuts
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:881:9-891:26
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:883:13-53
+	android:targetActivity
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:882:13-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:881:25-60
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:886:13-889:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:887:17-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:887:25-77
+activity#com.example.android.apis.app.MenuInflateFromXml
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:895:9-900:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:895:58-101
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:895:19-57
+activity#com.example.android.apis.app.DeviceAdminSample
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:904:9-910:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:905:17-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:904:19-56
+receiver#com.example.android.apis.app.DeviceAdminSample$DeviceAdminSampleReceiver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:913:9-922:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:914:17-60
+	android:permission
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:916:17-74
+	android:description
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:915:17-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:913:19-82
+meta-data#android.app.device_admin
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:917:13-918:70
+	android:resource
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:918:24-67
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:917:24-63
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:919:13-921:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:920:17-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:920:25-79
+activity#com.example.android.apis.app.VoiceRecognition
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:927:9-932:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:927:56-97
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:927:19-55
+activity#com.example.android.apis.app.TextToSpeechActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:936:9-941:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:936:60-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:936:19-59
+activity#com.example.android.apis.app.ActionBarMechanics
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:944:9-951:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:946:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:945:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:944:19-57
+activity#com.example.android.apis.app.ActionBarUsage
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:953:9-960:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:955:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:954:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:953:19-53
+activity#com.example.android.apis.app.ActionBarDisplayOptions
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:962:9-970:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:965:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:963:17-67
+	android:logo
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:964:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:962:19-62
+activity#com.example.android.apis.app.ActionBarTabs
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:972:9-979:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:974:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:973:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:972:19-52
+activity#com.example.android.apis.app.ActionBarSettingsActionProviderActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:981:9-988:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:983:17-64
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:982:17-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:981:19-78
+activity#com.example.android.apis.app.ActionBarShareActionProviderActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:990:9-997:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:992:17-64
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:991:17-73
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:990:19-75
+activity#com.example.android.apis.app.PrintBitmap
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:999:9-1006:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1001:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1000:17-53
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:999:19-50
+activity#com.example.android.apis.app.PrintHtmlFromScreen
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1008:9-1015:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1010:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1009:17-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1008:19-58
+activity#com.example.android.apis.app.PrintHtmlOffScreen
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1017:9-1024:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1019:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1018:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1017:19-57
+activity#com.example.android.apis.app.PrintCustomContent
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1026:9-1033:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1028:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1027:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1026:19-57
+receiver#com.example.android.apis.app.AppUpdateReceiver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1038:9-1042:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1038:19-56
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1039:13-1041:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1040:17-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1040:25-81
+receiver#com.example.android.apis.app.AppUpdateSspReceiver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1045:9-1050:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1045:19-59
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1046:13-1049:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1047:17-81
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1047:25-78
+data
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1048:17-89
+	android:scheme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1048:23-47
+	android:ssp
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1048:48-86
+activity#com.example.android.apis.preference.FragmentPreferences
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1056:9-1063:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1058:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1057:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1056:19-65
+activity#com.example.android.apis.preference.PreferenceWithHeaders
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1065:9-1072:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1067:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1066:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1065:19-67
+activity#com.example.android.apis.preference.PreferencesFromXml
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1074:9-1080:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1075:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1074:19-64
+activity#com.example.android.apis.preference.PreferencesFromCode
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1082:9-1088:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1083:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1082:19-65
+activity#com.example.android.apis.preference.AdvancedPreferences
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1090:9-1096:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1091:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1090:19-65
+activity#com.example.android.apis.preference.LaunchingPreferences
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1098:9-1104:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1099:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1098:19-66
+activity#com.example.android.apis.preference.PreferenceDependencies
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1106:9-1112:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1107:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1106:19-68
+activity#com.example.android.apis.preference.DefaultValues
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1114:9-1119:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1114:60-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1114:19-59
+activity#com.example.android.apis.preference.SwitchPreference
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1121:9-1128:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1123:17-64
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1122:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1121:19-62
+activity#com.example.android.apis.content.ClipboardSample
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1134:9-1141:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1136:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1135:17-59
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1134:19-58
+activity#com.example.android.apis.content.ExternalStorage
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1143:9-1149:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1143:59-108
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1143:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.EMBED+android.intent.category.SAMPLE_CODE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1144:13-1148:29
+category#android.intent.category.EMBED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1147:17-74
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1147:27-71
+activity#com.example.android.apis.content.StyledText
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1151:9-1157:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1151:54-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1151:19-53
+activity#com.example.android.apis.content.ResourcesLayoutReference
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1169:9-1176:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1170:17-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1169:19-67
+activity#com.example.android.apis.content.ResourcesWidthAndHeight
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1178:9-1186:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1180:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1179:17-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1178:19-66
+activity#com.example.android.apis.content.ResourcesSmallestWidth
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1188:9-1196:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1190:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1189:17-74
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1188:19-65
+activity#com.example.android.apis.content.ReadAsset
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1198:9-1204:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1198:53-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1198:19-52
+activity#com.example.android.apis.content.ResourcesSample
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1206:9-1211:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1206:59-101
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1206:19-58
+activity#com.example.android.apis.content.PickContact
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1213:9-1218:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1213:55-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1213:19-54
+activity#com.example.android.apis.content.ChangedContacts
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1220:9-1225:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1220:59-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1220:19-58
+activity#com.example.android.apis.content.InstallApk
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1227:9-1233:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1228:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1227:54-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1227:19-53
+provider#com.example.android.apis.content.FileProvider
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1235:9-1237:65
+	android:authorities
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1236:19-86
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1237:19-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1235:19-55
+activity#com.example.android.apis.hardware.ConsumerIr
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1243:9-1248:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1243:55-91
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1243:19-54
+activity#com.example.android.apis.os.MorseCode
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1254:9-1259:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1254:48-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1254:19-47
+activity#com.example.android.apis.os.Sensors
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1261:9-1266:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1261:46-72
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1261:19-45
+activity#com.example.android.apis.os.TriggerSensors
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1268:9-1273:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1268:53-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1268:19-52
+activity#com.example.android.apis.os.RotationVectorDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1275:9-1280:20
+	android:screenOrientation
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1275:93-129
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1275:57-91
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1275:19-56
+activity#com.example.android.apis.os.SmsMessagingDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1282:9-1287:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1282:55-87
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1282:19-54
+activity#com.example.android.apis.os.SmsReceivedDialog
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1289:9-1291:57
+	android:launchMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1291:19-54
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1290:19-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1289:19-55
+receiver#com.example.android.apis.os.SmsMessageReceiver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1293:9-1297:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1293:57-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1293:19-56
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1294:13-1296:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1295:17-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1295:25-79
+activity#com.example.android.apis.animation.AnimationLoading
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1303:9-1310:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1305:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1304:17-50
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1303:19-61
+activity#com.example.android.apis.animation.AnimationCloning
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1312:9-1319:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1314:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1313:17-50
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1312:19-61
+activity#com.example.android.apis.animation.AnimationSeeking
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1321:9-1328:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1323:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1322:17-50
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1321:19-61
+activity#com.example.android.apis.animation.AnimatorEvents
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1330:9-1337:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1332:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1331:17-49
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1330:19-59
+activity#com.example.android.apis.animation.BouncingBalls
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1339:9-1346:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1341:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1340:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1339:19-58
+activity#com.example.android.apis.animation.CustomEvaluator
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1348:9-1355:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1350:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1349:17-59
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1348:19-60
+activity#com.example.android.apis.animation.ListFlipper
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1357:9-1364:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1359:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1358:17-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1357:19-56
+activity#com.example.android.apis.animation.ReversingAnimation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1366:9-1373:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1368:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1367:17-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1366:19-63
+activity#com.example.android.apis.animation.MultiPropertyAnimation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1375:9-1382:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1377:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1376:17-62
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1375:19-67
+activity#com.example.android.apis.animation.LayoutAnimations
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1384:9-1391:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1386:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1385:17-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1384:19-61
+activity#com.example.android.apis.animation.LayoutAnimationsHideShow
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1393:9-1400:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1395:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1394:17-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1393:19-69
+activity#com.example.android.apis.animation.LayoutAnimationsByDefault
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1402:9-1409:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1404:19-59
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1403:19-70
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1402:19-70
+activity#com.example.android.apis.animation.Transitions
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1411:9-1418:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1413:19-59
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1412:19-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1411:19-56
+activity#com.example.android.apis.animation.Transition3d
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1424:9-1429:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1424:58-103
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1424:19-57
+activity#com.example.android.apis.view.TextClockDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1435:9-1440:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1435:54-85
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1435:19-53
+activity#com.example.android.apis.view.ChronometerDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1441:9-1446:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1441:56-89
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1441:19-55
+activity#com.example.android.apis.view.WebView1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1447:9-1452:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1447:49-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1447:19-48
+activity#com.example.android.apis.view.RelativeLayout1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1454:9-1459:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1454:56-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1454:19-55
+activity#com.example.android.apis.view.RelativeLayout2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1461:9-1466:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1461:56-115
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1461:19-55
+activity#com.example.android.apis.view.LinearLayout1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1468:9-1474:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1469:19-74
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1468:19-53
+activity#com.example.android.apis.view.LinearLayout2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1476:9-1482:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1477:19-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1476:19-53
+activity#com.example.android.apis.view.LinearLayout3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1484:9-1490:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1485:19-83
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1484:19-53
+activity#com.example.android.apis.view.LinearLayout4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1492:9-1498:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1493:19-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1492:19-53
+activity#com.example.android.apis.view.LinearLayout5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1500:9-1506:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1501:19-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1500:19-53
+activity#com.example.android.apis.view.LinearLayout6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1508:9-1514:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1509:19-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1508:19-53
+activity#com.example.android.apis.view.LinearLayout7
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1516:9-1522:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1517:19-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1516:19-53
+activity#com.example.android.apis.view.LinearLayout8
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1524:9-1530:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1525:19-73
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1524:19-53
+activity#com.example.android.apis.view.LinearLayout9
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1532:9-1538:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1533:19-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1532:19-53
+activity#com.example.android.apis.view.LinearLayout10
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1540:9-1546:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1541:19-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1540:19-54
+activity#com.example.android.apis.view.CustomLayoutActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1548:9-1554:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1549:19-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1548:19-60
+activity#com.example.android.apis.view.RadioGroup1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1556:9-1561:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1556:52-85
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1556:19-51
+activity#com.example.android.apis.view.ScrollView1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1563:9-1568:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1563:52-101
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1563:19-51
+activity#com.example.android.apis.view.ScrollView2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1570:9-1575:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1570:52-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1570:19-51
+activity#com.example.android.apis.view.HorizontalScrollView1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1577:9-1582:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1577:62-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1577:19-61
+activity#com.example.android.apis.view.Tabs1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1584:9-1589:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1584:46-89
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1584:19-45
+activity#com.example.android.apis.view.Tabs2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1591:9-1596:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1591:46-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1591:19-45
+activity#com.example.android.apis.view.Tabs3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1598:9-1603:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1598:46-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1598:19-45
+activity#com.example.android.apis.view.Tabs4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1605:9-1611:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1605:46-90
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1606:19-55
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1605:19-45
+activity#com.example.android.apis.view.Tabs5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1613:9-1618:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1613:46-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1613:19-45
+activity#com.example.android.apis.view.Tabs6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1620:9-1625:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1620:46-89
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1620:19-45
+activity#com.example.android.apis.view.InternalSelectionScroll
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1627:9-1632:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1627:64-126
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1627:19-63
+activity#com.example.android.apis.view.TableLayout1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1634:9-1639:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1634:53-104
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1634:19-52
+activity#com.example.android.apis.view.TableLayout2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1641:9-1646:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1641:53-110
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1641:19-52
+activity#com.example.android.apis.view.TableLayout3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1648:9-1653:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1648:53-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1648:19-52
+activity#com.example.android.apis.view.TableLayout4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1655:9-1660:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1655:53-110
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1655:19-52
+activity#com.example.android.apis.view.TableLayout5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1662:9-1667:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1662:53-123
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1662:19-52
+activity#com.example.android.apis.view.TableLayout6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1669:9-1674:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1669:53-128
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1669:19-52
+activity#com.example.android.apis.view.TableLayout7
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1676:9-1681:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1676:53-114
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1676:19-52
+activity#com.example.android.apis.view.TableLayout8
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1683:9-1688:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1683:53-113
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1683:19-52
+activity#com.example.android.apis.view.TableLayout9
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1690:9-1695:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1690:53-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1690:19-52
+activity#com.example.android.apis.view.TableLayout10
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1697:9-1702:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1697:54-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1697:19-53
+activity#com.example.android.apis.view.TableLayout11
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1704:9-1709:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1704:54-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1704:19-53
+activity#com.example.android.apis.view.TableLayout12
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1711:9-1716:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1711:54-113
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1711:19-53
+activity#com.example.android.apis.view.GridLayout1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1718:9-1723:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1718:52-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1718:19-51
+activity#com.example.android.apis.view.GridLayout2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1725:9-1730:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1725:52-106
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1725:19-51
+activity#com.example.android.apis.view.GridLayout3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1732:9-1737:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1732:52-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1732:19-51
+activity#com.example.android.apis.view.Baseline1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1739:9-1744:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1739:50-95
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1739:19-49
+activity#com.example.android.apis.view.Baseline2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1746:9-1751:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1746:50-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1746:19-49
+activity#com.example.android.apis.view.Baseline3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1753:9-1758:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1753:50-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1753:19-49
+activity#com.example.android.apis.view.Baseline4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1760:9-1765:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1760:50-102
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1760:19-49
+activity#com.example.android.apis.view.Baseline6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1767:9-1772:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1767:50-102
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1767:19-49
+activity#com.example.android.apis.view.Baseline7
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1774:9-1779:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1774:50-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1774:19-49
+activity#com.example.android.apis.view.BaselineNested1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1781:9-1786:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1781:56-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1781:19-55
+activity#com.example.android.apis.view.BaselineNested2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1788:9-1793:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1788:56-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1788:19-55
+activity#com.example.android.apis.view.BaselineNested3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1795:9-1800:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1795:56-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1795:19-55
+activity#com.example.android.apis.view.ScrollBar1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1802:9-1807:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1802:51-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1802:19-50
+activity#com.example.android.apis.view.ScrollBar2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1809:9-1814:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1809:51-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1809:19-50
+activity#com.example.android.apis.view.ScrollBar3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1816:9-1821:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1816:51-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1816:19-50
+activity#com.example.android.apis.view.Visibility1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1823:9-1828:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1823:52-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1823:19-51
+activity#com.example.android.apis.view.List1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1830:9-1835:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1830:46-83
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1830:19-45
+activity#com.example.android.apis.view.List2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1837:9-1842:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1837:46-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1837:19-45
+activity#com.example.android.apis.view.List3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1844:9-1849:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1844:46-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1844:19-45
+activity#com.example.android.apis.view.List4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1851:9-1856:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1851:46-89
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1851:19-45
+activity#com.example.android.apis.view.List5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1858:9-1863:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1858:46-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1858:19-45
+activity#com.example.android.apis.view.List6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1865:9-1870:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1865:46-99
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1865:19-45
+activity#com.example.android.apis.view.List7
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1872:9-1877:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1872:46-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1872:19-45
+activity#com.example.android.apis.view.List8
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1879:9-1884:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1879:46-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1879:19-45
+activity#com.example.android.apis.view.List9
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1886:9-1891:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1886:46-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1886:19-45
+activity#com.example.android.apis.view.List10
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1893:9-1898:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1893:47-97
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1893:19-46
+activity#com.example.android.apis.view.List11
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1900:9-1905:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1900:47-99
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1900:19-46
+activity#com.example.android.apis.view.List12
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1907:9-1912:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1907:47-89
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1907:19-46
+activity#com.example.android.apis.view.List13
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1914:9-1919:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1914:47-91
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1914:19-46
+activity#com.example.android.apis.view.List14
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1921:9-1926:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1921:47-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1921:19-46
+activity#com.example.android.apis.view.List15
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1928:9-1933:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1928:47-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1928:19-46
+activity#com.example.android.apis.view.List16
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1935:9-1940:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1935:47-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1935:19-46
+activity#com.example.android.apis.view.List17
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1942:9-1947:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1942:47-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1942:19-46
+activity#com.example.android.apis.view.ExpandableList1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1949:9-1954:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1949:56-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1949:19-55
+activity#com.example.android.apis.view.ExpandableList2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1956:9-1961:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1956:56-113
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1956:19-55
+activity#com.example.android.apis.view.ExpandableList3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1963:9-1968:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1963:56-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1963:19-55
+activity#com.example.android.apis.view.CustomView1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1970:9-1977:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1971:17-45
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1972:17-59
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1970:19-51
+activity#com.example.android.apis.view.Gallery1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1979:9-1984:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1979:49-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1979:19-48
+activity#com.example.android.apis.view.Gallery2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1986:9-1991:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1986:49-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1986:19-48
+activity#com.example.android.apis.view.Spinner1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1993:9-1998:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1993:49-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:1993:19-48
+activity#com.example.android.apis.view.Grid1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2000:9-2005:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2000:46-85
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2000:19-45
+activity#com.example.android.apis.view.Grid2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2007:9-2012:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2007:46-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2007:19-45
+activity#com.example.android.apis.view.Grid3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2014:9-2020:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2015:19-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2014:19-45
+activity#com.example.android.apis.view.ImageView1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2022:9-2028:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2023:17-48
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2022:19-50
+activity#com.example.android.apis.view.ImageSwitcher1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2030:9-2036:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2031:17-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2030:19-54
+activity#com.example.android.apis.view.TextSwitcher1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2038:9-2044:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2039:17-51
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2038:19-53
+activity#com.example.android.apis.view.ImageButton1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2046:9-2052:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2047:17-50
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2046:19-52
+activity#com.example.android.apis.view.Animation1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2054:9-2059:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2054:51-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2054:19-50
+activity#com.example.android.apis.view.Animation2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2061:9-2066:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2061:51-87
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2061:19-50
+activity#com.example.android.apis.view.Animation3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2068:9-2073:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2068:51-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2068:19-50
+activity#com.example.android.apis.view.LayoutAnimation1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2075:9-2080:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2075:57-108
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2075:19-56
+activity#com.example.android.apis.view.LayoutAnimation2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2082:9-2087:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2082:57-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2082:19-56
+activity#com.example.android.apis.view.LayoutAnimation3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2089:9-2094:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2089:57-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2089:19-56
+activity#com.example.android.apis.view.LayoutAnimation4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2096:9-2101:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2096:57-108
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2096:19-56
+activity#com.example.android.apis.view.LayoutAnimation5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2103:9-2108:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2103:57-113
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2103:19-56
+activity#com.example.android.apis.view.LayoutAnimation6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2110:9-2115:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2110:57-109
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2110:19-56
+activity#com.example.android.apis.view.LayoutAnimation7
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2117:9-2122:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2117:57-116
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2117:19-56
+activity#com.example.android.apis.view.Controls1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2124:9-2131:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2125:19-64
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2126:19-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2124:19-49
+activity#com.example.android.apis.view.Controls2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2133:9-2140:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2134:19-63
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2135:19-55
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2133:19-49
+activity#com.example.android.apis.view.Controls3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2142:9-2150:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2145:19-59
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2143:19-69
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2144:19-66
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2142:19-49
+activity#com.example.android.apis.view.Controls4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2152:9-2160:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2155:19-59
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2153:19-68
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2154:19-60
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2152:19-49
+activity#com.example.android.apis.view.Controls5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2162:9-2169:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2163:19-65
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2164:19-53
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2162:19-49
+activity#com.example.android.apis.view.Controls6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2171:9-2178:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2172:19-70
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2173:19-51
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2171:19-49
+activity#com.example.android.apis.view.Buttons1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2180:9-2186:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2181:17-46
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2180:19-48
+activity#com.example.android.apis.view.AutoComplete1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2188:9-2193:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2188:54-103
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2188:19-53
+activity#com.example.android.apis.view.AutoComplete2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2195:9-2200:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2195:54-106
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2195:19-53
+activity#com.example.android.apis.view.AutoComplete3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2202:9-2207:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2202:54-99
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2202:19-53
+activity#com.example.android.apis.view.AutoComplete4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2209:9-2214:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2209:54-101
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2209:19-53
+activity#com.example.android.apis.view.AutoComplete5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2216:9-2221:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2216:54-111
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2216:19-53
+activity#com.example.android.apis.view.AutoComplete6
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2223:9-2228:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2223:54-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2223:19-53
+activity#com.example.android.apis.view.ProgressBar1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2230:9-2235:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2230:53-102
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2230:19-52
+activity#com.example.android.apis.view.ProgressBar2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2237:9-2242:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2237:53-97
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2237:19-52
+activity#com.example.android.apis.view.ProgressBar3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2244:9-2249:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2244:53-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2244:19-52
+activity#com.example.android.apis.view.ProgressBar4
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2251:9-2256:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2251:53-103
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2251:19-52
+activity#com.example.android.apis.view.SeekBar1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2258:9-2263:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2258:49-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2258:19-48
+activity#com.example.android.apis.view.RatingBar1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2265:9-2270:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2265:51-83
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2265:19-50
+activity#com.example.android.apis.view.Focus1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2272:9-2277:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2272:47-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2272:19-46
+activity#com.example.android.apis.view.Focus2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2279:9-2284:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2279:47-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2279:19-46
+activity#com.example.android.apis.view.Focus3
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2286:9-2291:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2286:47-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2286:19-46
+activity#com.example.android.apis.view.InternalSelectionFocus
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2293:9-2298:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2293:63-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2293:19-62
+activity#com.example.android.apis.view.Focus5
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2300:9-2305:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2300:47-100
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2300:19-46
+activity#com.example.android.apis.view.WindowFocusObserver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2307:9-2313:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2308:19-71
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2307:19-59
+activity#com.example.android.apis.view.DateWidgets1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2315:9-2320:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2315:53-97
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2315:19-52
+activity#com.example.android.apis.view.DateWidgets2
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2322:9-2327:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2322:53-97
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2322:19-52
+activity#com.example.android.apis.view.PopupMenu1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2329:9-2334:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2329:51-83
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2329:19-50
+activity#com.example.android.apis.view.SearchViewActionBar
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2336:9-2344:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2336:60-104
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2337:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2336:19-59
+activity#com.example.android.apis.view.SearchViewAlwaysVisible
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2346:9-2354:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2346:64-113
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2347:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2346:19-63
+activity#com.example.android.apis.view.SearchViewFilterMode
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2356:9-2362:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2356:61-101
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2357:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2356:19-60
+activity#com.example.android.apis.view.RotatingButton
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2364:9-2369:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2364:55-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2364:19-54
+activity#com.example.android.apis.view.SecureView
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2371:9-2376:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2371:51-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2371:19-50
+activity#com.example.android.apis.view.SplitTouchView
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2378:9-2383:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2378:55-107
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2378:19-54
+activity#com.example.android.apis.view.DragAndDropDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2385:9-2393:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2388:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2386:17-52
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2387:17-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2385:19-55
+activity#com.example.android.apis.view.GameControllerInput
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2395:9-2400:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2395:60-103
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2395:19-59
+activity#com.example.android.apis.view.Hover
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2402:9-2407:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2402:46-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2402:19-45
+activity#com.example.android.apis.view.SystemUIModes
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2409:9-2417:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2412:17-60
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2410:17-75
+	android:uiOptions
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2411:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2409:19-53
+activity#com.example.android.apis.view.SystemUIModesOverlay
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2419:9-2427:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2422:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2420:17-83
+	android:uiOptions
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2421:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2419:19-60
+activity#com.example.android.apis.view.ContentBrowserActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2429:9-2438:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2433:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2430:17-75
+	android:uiOptions
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2432:17-61
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2431:17-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2429:19-62
+activity#com.example.android.apis.view.ContentBrowserNavActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2440:9-2449:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2444:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2441:17-83
+	android:uiOptions
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2443:17-61
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2442:17-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2440:19-65
+activity#com.example.android.apis.view.VideoPlayerActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2451:9-2460:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2455:17-57
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2452:17-72
+	android:uiOptions
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2454:17-61
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2453:17-58
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2451:19-59
+activity#com.example.android.apis.view.TranslucentBarsActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2462:9-2470:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2465:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2463:17-76
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2464:17-87
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2462:19-63
+activity#com.example.android.apis.view.GameActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2472:9-2480:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2475:17-54
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2473:17-64
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2474:17-70
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2472:19-52
+activity#com.example.android.apis.view.Switches
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2482:9-2487:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2482:49-79
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2482:19-48
+activity#com.example.android.apis.graphics.kube.Kube
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2493:9-2499:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2493:54-93
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2494:17-110
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2493:19-53
+activity#com.example.android.apis.graphics.Compass
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2501:9-2506:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2501:52-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2501:19-51
+activity#com.example.android.apis.graphics.CameraPreview
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2508:9-2513:20
+	android:screenOrientation
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2508:97-134
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2508:58-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2508:19-57
+activity#com.example.android.apis.graphics.CompressedTextureActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2515:9-2523:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2516:17-70
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2518:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2517:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2515:19-69
+activity#com.example.android.apis.graphics.CubeMapActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2525:9-2533:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2526:17-60
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2528:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2527:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2525:19-59
+activity#com.example.android.apis.graphics.FrameBufferObjectActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2536:9-2544:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2537:17-71
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2539:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2538:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2536:19-69
+activity#com.example.android.apis.graphics.GLSurfaceViewActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2546:9-2554:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2547:17-65
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2549:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2548:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2546:19-65
+activity#com.example.android.apis.graphics.GLES20Activity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2556:9-2564:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2557:17-65
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2559:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2558:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2556:19-58
+activity#com.example.android.apis.graphics.MatrixPaletteActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2566:9-2573:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2567:17-75
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2568:17-110
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2566:19-65
+activity#com.example.android.apis.graphics.TranslucentGLSurfaceViewActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2575:9-2583:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2576:17-77
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2578:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2577:17-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2575:19-76
+activity#com.example.android.apis.graphics.TriangleActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2585:9-2593:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2586:17-69
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2588:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2587:17-65
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2585:19-60
+activity#com.example.android.apis.graphics.spritetext.SpriteTextActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2595:9-2603:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2596:17-63
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2598:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2597:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2595:19-73
+activity#com.example.android.apis.graphics.TouchRotateActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2605:9-2613:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2606:17-64
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2608:17-110
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2607:17-64
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2605:19-63
+activity#com.example.android.apis.graphics.PolyToPoly
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2615:9-2620:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2615:55-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2615:19-54
+activity#com.example.android.apis.graphics.ScaleToFit
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2622:9-2627:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2622:55-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2622:19-54
+activity#com.example.android.apis.graphics.RoundRects
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2629:9-2634:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2629:55-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2629:19-54
+activity#com.example.android.apis.graphics.ShapeDrawable1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2636:9-2641:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2636:59-106
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2636:19-58
+activity#com.example.android.apis.graphics.SurfaceViewOverlay
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2643:9-2649:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2644:17-61
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2643:19-62
+activity#com.example.android.apis.graphics.WindowSurface
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2651:9-2657:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2652:17-56
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2651:19-57
+activity#com.example.android.apis.graphics.TextAlign
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2659:9-2665:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2660:54-89
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2659:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2660:19-53
+activity#com.example.android.apis.graphics.Arcs
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2667:9-2672:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2667:49-78
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2667:19-48
+activity#com.example.android.apis.graphics.Patterns
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2674:9-2679:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2674:53-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2674:19-52
+activity#com.example.android.apis.graphics.Clipping
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2681:9-2687:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2682:53-86
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2681:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2682:19-52
+activity#com.example.android.apis.graphics.Layers
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2689:9-2694:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2689:51-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2689:19-50
+activity#com.example.android.apis.graphics.UnicodeChart
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2696:9-2702:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2697:57-94
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2696:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2697:19-56
+activity#com.example.android.apis.graphics.PathFillTypes
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2704:9-2709:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2704:58-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2704:19-57
+activity#com.example.android.apis.graphics.Pictures
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2711:9-2717:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2712:53-86
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2711:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2712:19-52
+activity#com.example.android.apis.graphics.Vertices
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2719:9-2725:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2720:53-86
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2719:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2720:19-52
+activity#com.example.android.apis.graphics.AnimateDrawables
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2727:9-2732:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2727:61-102
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2727:19-60
+activity#com.example.android.apis.graphics.SensorTest
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2734:9-2739:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2734:55-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2734:19-54
+activity#com.example.android.apis.graphics.AlphaBitmap
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2741:9-2746:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2741:56-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2741:19-55
+activity#com.example.android.apis.graphics.Regions
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2748:9-2753:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2748:52-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2748:19-51
+activity#com.example.android.apis.graphics.Sweep
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2755:9-2760:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2755:50-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2755:19-49
+activity#com.example.android.apis.graphics.BitmapMesh
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2762:9-2767:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2762:55-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2762:19-54
+activity#com.example.android.apis.graphics.MeasureText
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2769:9-2774:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2769:56-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2769:19-55
+activity#com.example.android.apis.graphics.Typefaces
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2776:9-2781:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2776:54-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2776:19-53
+activity#com.example.android.apis.graphics.FingerPaint
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2783:9-2788:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2783:56-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2783:19-55
+activity#com.example.android.apis.graphics.ColorMatrixSample
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2790:9-2795:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2790:62-98
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2790:19-61
+activity#com.example.android.apis.graphics.BitmapDecode
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2797:9-2803:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2798:57-94
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2797:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2798:19-56
+activity#com.example.android.apis.graphics.ColorFilters
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2805:9-2810:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2805:57-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2805:19-56
+activity#com.example.android.apis.graphics.CreateBitmap
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2812:9-2817:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2812:57-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2812:19-56
+activity#com.example.android.apis.graphics.DrawPoints
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2819:9-2825:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2820:55-86
+	android:hardwareAccelerated
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2819:19-54
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2820:19-54
+activity#com.example.android.apis.graphics.TouchPaint
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2827:9-2834:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2827:55-91
+	android:configChanges
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2829:17-130
+	android:theme
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2828:17-51
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2827:19-54
+activity#com.example.android.apis.graphics.BitmapPixels
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2836:9-2841:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2836:57-94
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2836:19-56
+activity#com.example.android.apis.graphics.Xfermodes
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2843:9-2848:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2843:54-88
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2843:19-53
+activity#com.example.android.apis.graphics.PathEffects
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2850:9-2855:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2850:56-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2850:19-55
+activity#com.example.android.apis.graphics.GradientDrawable1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2857:9-2862:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2857:62-112
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2857:19-61
+activity#com.example.android.apis.graphics.PurgeableBitmap
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2864:9-2869:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2864:60-113
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2864:19-59
+activity-alias#com.example.android.apis.Purgeable
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2871:8-2876:26
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2871:100-150
+	android:targetActivity
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2871:24-74
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2871:75-99
+activity#com.example.android.apis.graphics.DensityActivity
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2878:9-2883:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2878:60-92
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2878:19-59
+activity#com.example.android.apis.media.MediaPlayerDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2889:9-2894:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2889:57-90
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2889:19-56
+activity#com.example.android.apis.media.MediaPlayerDemo_Audio
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2896:9-2900:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2896:63-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2896:19-62
+intent-filter#android.intent.category.SAMPLE_CODE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2897:13-2899:29
+activity#com.example.android.apis.media.MediaPlayerDemo_Video
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2902:9-2906:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2902:63-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2902:19-62
+activity#com.example.android.apis.media.VideoViewDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2908:9-2913:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2908:55-86
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2908:19-54
+activity#com.example.android.apis.media.AudioFxDemo
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2915:9-2920:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2915:53-82
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2915:19-52
+receiver#com.example.android.apis.appwidget.ExampleAppWidgetProvider
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2926:9-2932:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2926:19-69
+meta-data#android.appwidget.provider
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2927:13-2928:66
+	android:resource
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2928:21-63
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2927:24-65
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2929:13-2931:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2930:17-84
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2930:25-81
+activity#com.example.android.apis.appwidget.ExampleAppWidgetConfigure
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2934:9-2938:20
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2934:19-70
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2935:13-2937:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2936:17-87
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2936:25-84
+receiver#com.example.android.apis.appwidget.ExampleBroadcastReceiver
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2940:9-2945:20
+	android:enabled
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2940:70-93
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2940:19-69
+intent-filter#android.intent.ACTION_TIME+android.intent.ACTION_TIMEZONE_CHANGED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2941:13-2944:29
+action#android.intent.ACTION_TIMEZONE_CHANGED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2942:17-81
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2942:25-78
+action#android.intent.ACTION_TIME
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2943:17-69
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2943:25-66
+activity#com.example.android.apis.text.Link
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2951:9-2956:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2951:45-73
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2951:19-44
+activity#com.example.android.apis.text.Marquee
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2958:9-2963:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2958:48-76
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2958:19-47
+activity#com.example.android.apis.text.LogTextBox1
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2965:9-2970:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2965:52-83
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2965:19-51
+activity#com.example.android.apis.nfc.ForegroundDispatch
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2972:9-2977:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2972:58-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2972:19-57
+activity#com.example.android.apis.nfc.TechFilter
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2979:9-2993:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2979:50-80
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2979:19-49
+intent-filter#android.nfc.action.TECH_DISCOVERED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2986:13-2988:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2987:17-77
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2987:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2990:13-2992:15
+	android:resource
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2991:17-51
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2990:24-73
+activity#com.example.android.apis.nfc.ForegroundNdefPush
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2995:9-3000:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2995:58-96
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:2995:19-57
+activity#com.example.android.apis.security.KeyStoreUsage
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3002:9-3008:20
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3002:58-91
+	android:windowSoftInputMode
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3003:13-52
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3002:19-57
+instrumentation
+ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3011:5-3013:40
+	android:label
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3013:9-37
+	android:targetPackage
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3012:9-57
+	android:name
+		ADDED from /home/lijia/github/ApiDemos/app/src/main/AndroidManifest.xml:3011:22-68

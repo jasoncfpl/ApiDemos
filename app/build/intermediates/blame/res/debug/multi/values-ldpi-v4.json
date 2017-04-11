@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/lijia/github/ApiDemos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/src/main/res/values-ldpi/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 54,
+                        "endOffset": 741
+                    }
+                }
+            }
+        ]
+    }
+]

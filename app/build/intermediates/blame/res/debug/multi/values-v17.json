@@ -1,0 +1,278 @@
+[
+    {
+        "outputFile": "/home/lijia/github/ApiDemos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/src/main/res/values-v17/bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 48,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1365
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1370,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1607
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2394
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2088,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2399,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2594
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2362,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2557
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,1222 @@
+[
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/accessibility_service.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/accessibility_service.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_multi_property.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_multi_property.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/image_switcher_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/image_switcher_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/switches.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/switches.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_arguments.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_arguments.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/searchview_filter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/searchview_filter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/system_ui_modes.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/system_ui_modes.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/local_service_binding.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/local_service_binding.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/incoming_message.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/incoming_message.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_title.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_title.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/tabs_scroll.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/tabs_scroll.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_hide_show.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_hide_show.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/searchview_actionbar.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/searchview_actionbar.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/focus_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/focus_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/redirect_enter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/redirect_enter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_arguments_fragment.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_arguments_fragment.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/clipboard.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/clipboard.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notifying_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/notifying_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/visibility_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/visibility_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/alarm_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/alarm_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/progressbar_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/progressbar_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/local_service_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/local_service_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/scrollbar1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/scrollbar1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_9.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_9.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/motogp_stat_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/motogp_stat_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/launcher_shortcuts.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/launcher_shortcuts.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_6.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_6.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_custom_evaluator.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_custom_evaluator.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/tabs1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/tabs1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/focus_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/focus_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/labeled_text_edit.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/labeled_text_edit.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_7.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_7.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/image_view_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/image_view_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/install_apk.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/install_apk.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/remote_service_binding.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/remote_service_binding.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_reversing.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_reversing.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animator_events.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animator_events.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/rotation_animation.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/rotation_animation.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/dialog_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/dialog_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_7.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_7.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/quick_contacts.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/quick_contacts.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/foreground_dispatch.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/foreground_dispatch.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/send_result.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/send_result.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/progressbar_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/progressbar_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/incoming_message_interstitial.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/incoming_message_interstitial.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/remote_binding_options.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/remote_binding_options.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/scroll_view_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/scroll_view_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/secure_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/secure_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notify_with_text.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/notify_with_text.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/presentation_content.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/presentation_content.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/action_bar_display_options.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/action_bar_display_options.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_cloning.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_cloning.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/forward_target.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/forward_target.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/rotating_list.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/rotating_list.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_smallest_width_row.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/text_undo.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/text_undo.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_7.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_7.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/density_styled_image_views.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/density_styled_image_views.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/appwidget_provider.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/appwidget_provider.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/consumer_ir.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/consumer_ir.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/search_invoke.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/search_invoke.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/intents.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/intents.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_10.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_10.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_height.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_height.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animations_hideshow.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animations_hideshow.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/date_widgets_example_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/date_widgets_example_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/external_storage_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/external_storage_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_6.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_6.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/local_sample.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/local_sample.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/grid_layout_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/grid_layout_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_nested_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_nested_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/soft_input_modes.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/soft_input_modes.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_5.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_5.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_5.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_5.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/incoming_message_panel.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/incoming_message_panel.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_5.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_5.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_nested_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_nested_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/forwarding.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/forwarding.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_6.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_6.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_6.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_6.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/game_controller_input.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/game_controller_input.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/reorder_four.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/reorder_four.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_width.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_width.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/status_bar_balloon.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/status_bar_balloon.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/video_player.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/video_player.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_12.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_12.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_nested_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_nested_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_layout_reference.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_layout_reference.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/grid_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/grid_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/link.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/link.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_7.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_7.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/radio_group_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/radio_group_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/tabs_right_gravity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/tabs_right_gravity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animations.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animations.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_width_and_height.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_width_and_height.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/presentation_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/presentation_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/redirect_main.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/redirect_main.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/text_switcher_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/text_switcher_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/print_html_off_screen.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/print_html_off_screen.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/action_bar_settings_action_provider.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/reorder_three.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/reorder_three.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/action_bar_display_options_custom.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/action_bar_display_options_custom.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_dialog_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_dialog_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/date_widgets_example_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/date_widgets_example_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/activity_finish_affinity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/activity_finish_affinity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/mapview.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/mapview.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_seeking.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_seeking.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/google_login.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/google_login.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/appwidget_configure.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/appwidget_configure.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/controls_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/controls_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_item_icon_text.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_item_icon_text.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/grid_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/grid_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/gallery_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/gallery_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_7.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_7.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_smallest_width_inner.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_smallest_width_inner.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/search_query_results.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/search_query_results.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/intent_activity_flags.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/intent_activity_flags.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/content_browser.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/content_browser.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/secure_window_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/secure_window_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/external_storage.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/external_storage.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/spinner_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/spinner_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/voice_recognition.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/voice_recognition.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_tabs_fragment.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_tabs_fragment.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/presentation_with_media_router_content.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/presentation_with_media_router_content.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/rotating_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/rotating_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_13.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_13.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/scrollbar3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/scrollbar3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/focus_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/focus_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/action_bar_tabs.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/action_bar_tabs.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/translucent_bars.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/translucent_bars.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/remote_service_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/remote_service_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/marquee.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/marquee.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/ratingbar_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/ratingbar_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/bouncing_balls.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/bouncing_balls.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_view_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_view_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/scroll_view_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/scroll_view_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/progressbar_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/progressbar_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_title_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_title_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/relative_layout_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/relative_layout_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/service_start_arguments_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/service_start_arguments_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/print_html_from_screen.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/print_html_from_screen.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/isolated_service_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/isolated_service_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/scrollbar2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/scrollbar2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/custom_view_accessibility.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/custom_view_accessibility.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/horizontal_scroll_view1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/horizontal_scroll_view1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/select_dialog.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/select_dialog.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/presentation_list_item.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/presentation_list_item.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/game.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/game.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/text_to_speech.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/text_to_speech.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_item_checkbox.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/contacts_filter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/contacts_filter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/alert_dialog_text_entry.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/alert_dialog_text_entry.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_12.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_12.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/sms_demo.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/sms_demo.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/shape_drawable_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/shape_drawable_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/transition_scene3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/transition_scene3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/receive_result.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/receive_result.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_layout_reference_tablet.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_layout_reference_tablet.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_5.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_5.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/videoview.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/videoview.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/action_bar_tab_content.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/action_bar_tab_content.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/gallery_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/gallery_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_6.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_6.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/translucent_background.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/translucent_background.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/status_bar_notifications.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/status_bar_notifications.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_8.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_8.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/messenger_service_binding.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/messenger_service_binding.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/seekbar_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/seekbar_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_10.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_10.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/trigger_sensors.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/trigger_sensors.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/keystore_usage.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/keystore_usage.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/hello_world.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/hello_world.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/screen_orientation.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/screen_orientation.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/morse_code.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/morse_code.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/read_asset.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/read_asset.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/transition_scene1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/transition_scene1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/grid_layout_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/grid_layout_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_dialog.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_dialog.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_8.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_8.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/incoming_message_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/incoming_message_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/simple_list_item_checkable_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/simple_list_item_checkable_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/log_text_box_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/log_text_box_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/mediaplayer_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/mediaplayer_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/search_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/search_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/secure_dialog_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/secure_dialog_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/popup_menu_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/popup_menu_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/webview_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/webview_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animator_custom_evaluator.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animator_custom_evaluator.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animation_loading.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animation_loading.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/surface_view_overlay.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/surface_view_overlay.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/incoming_message_info.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/incoming_message_info.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/preference_widget_mypreference.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/preference_widget_mypreference.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/secure_view_overlay.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/secure_view_overlay.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/hover.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/hover.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/reorder_on_launch.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/reorder_on_launch.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/tasklist_main.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/tasklist_main.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/overscan_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/overscan_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/list_position.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/list_position.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/pick_contact.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/pick_contact.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/mediaplayer_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/mediaplayer_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animation_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animation_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/game_controller_input_heading.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/game_controller_input_heading.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/animations_main_screen.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/animations_main_screen.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/presentation_with_media_router_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/presentation_with_media_router_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/styled_text.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/styled_text.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/print_bitmap.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/print_bitmap.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/secure_surface_view_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/secure_surface_view_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/resources_smallest_width.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/resources_smallest_width.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/window_focus_observer.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/window_focus_observer.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/split_touch_view.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/split_touch_view.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_stack.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_stack.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_3.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_3.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/chronometer.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/chronometer.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/layout_animations_by_default.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/layout_animations_by_default.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/density_image_views.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/density_image_views.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_9.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_9.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/alarm_service.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/alarm_service.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/focus_5.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/focus_5.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/tasklist_row.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/tasklist_row.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/transition_scene2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/transition_scene2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/progressbar_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/progressbar_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/activity_recreate.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/activity_recreate.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/linear_layout_8.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/linear_layout_8.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/image_button_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/image_button_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/redirect_getter.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/redirect_getter.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/game_controller_input_text_column.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/game_controller_input_text_column.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_retain_instance.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_retain_instance.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/transition.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/transition.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/drag_layout.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/drag_layout.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/table_layout_11.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/table_layout_11.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/textclock.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/textclock.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/save_restore_state.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/save_restore_state.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_context_menu.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_context_menu.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/baseline_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/baseline_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/fragment_dialog_or_activity.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/fragment_dialog_or_activity.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/reorder_two.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/reorder_two.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/relative_layout_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/relative_layout_2.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/buttons_1.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/buttons_1.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/activity_animation.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/activity_animation.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/content_browser_nav.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/content_browser_nav.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/foreground_service_controller.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/foreground_service_controller.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/autocomplete_4.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/autocomplete_4.xml"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/layout/wallpaper_2.xml",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/layout/wallpaper_2.xml"
+    }
+]

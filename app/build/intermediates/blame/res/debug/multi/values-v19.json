@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/lijia/github/ApiDemos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/home/lijia/github/ApiDemos/app/src/main/res/values-v19/bools.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 42,
+                        "endOffset": 892
+                    }
+                }
+            }
+        ]
+    }
+]

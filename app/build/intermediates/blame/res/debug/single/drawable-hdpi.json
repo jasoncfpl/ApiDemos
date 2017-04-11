@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/app_sample_code.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/app_sample_code.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/alert_dialog_icon.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/alert_dialog_icon.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/stat_sample.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/stat_sample.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/progress_particle.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/progress_particle.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_off.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/btn_check_off.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_holo_light.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/reslogo240dpi.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/reslogo240dpi.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_contact_picture.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/ic_contact_picture.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/button.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/button.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/smlnpatch240dpi.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/smlnpatch240dpi.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_settings.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/ic_launcher_settings.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_on.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/btn_check_on.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/stat_happy.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/stat_happy.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/star_big_on.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/star_big_on.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/stylogo240dpi.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/stylogo240dpi.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/icon48x48_2.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/icon48x48_2.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/npatch240dpi.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/npatch240dpi.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_focused_holo.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_up_float.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/arrow_up_float.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_longpressed_holo.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/progress_circular_background.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/progress_circular_background.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_normal.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/btn_default_normal.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/scrollbar_state2.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/scrollbar_state2.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/stat_sad.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/stat_sad.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/stat_neutral.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/stat_neutral.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_popup_reminder.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/ic_popup_reminder.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/apidemo_androidlogo.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/apidemo_androidlogo.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_circle_normal.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/btn_circle_normal.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_down_float.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/arrow_down_float.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/lijia/github/ApiDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/lijia/github/ApiDemos/app/build/intermediates/res/merged/debug/drawable-hdpi/logo240dpi.png",
+        "source": "/home/lijia/github/ApiDemos/app/src/main/res/drawable-hdpi/logo240dpi.png"
+    }
+]
